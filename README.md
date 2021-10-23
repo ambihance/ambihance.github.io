@@ -4,4 +4,4 @@ Website A M B I H A N C E
 This project is the uploaded code made with the Mobirise web-editor. (https://mobirise.com/)
 This site: www.ambihance.nl 
 
-Edited: 2021-10-23
+Edited: 23-10-2021
